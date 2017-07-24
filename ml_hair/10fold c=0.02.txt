@@ -1,0 +1,21 @@
+0.25
+Iteration: 1
+0.4375
+Iteration: 2
+0.5
+Iteration: 3
+0.5625
+Iteration: 4
+0.525
+Iteration: 5
+0.532738095238
+Iteration: 6
+0.517857142857
+Iteration: 7
+0.560267857143
+Iteration: 8
+0.593253968254
+Iteration: 9
+0.591071428571
+Iteration: 10
+0.591071428571
